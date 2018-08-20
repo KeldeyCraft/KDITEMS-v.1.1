@@ -1,0 +1,5 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/KeldeyCraft/KDITEMS-v.1.1
+branches:
+- master
+projects: []
+...
